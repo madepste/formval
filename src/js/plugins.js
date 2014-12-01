@@ -22,3 +22,7 @@
 }());
 
 // Place any jQuery/helper plugins in here.
+//hosted by Microsoft Ajax CDN
+<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
+//hosted by Google API
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
